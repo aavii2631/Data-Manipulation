@@ -1,25 +1,43 @@
-# Portfolio Website
+# Company Employee Data Manipulation
 
-## About
+## About the Project
 
-This is my personal portfolio website showcasing my skills, projects, certificates, and professional journey in Data Science and Artificial Intelligence.
+This project focuses on manipulating and analyzing company employee data using Python. The project works with employee information such as age, salary, and other employee-related attributes to perform data analysis and transformations.
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+* Python
+* Pandas
+* NumPy
+* Matplotlib
 
-## Features
+## Key Operations
 
-* Home section
-* Work / Projects section
-* Certificates section
-* Contact information
-* LinkedIn and GitHub links
+* Loading and exploring employee data
+* Manipulating employee records
+* Performing age-based operations
+* Analyzing employee salaries
+* Filtering and sorting employee data
+* Performing calculations and transformations
+* Generating basic insights from the dataset
+
+## Objective
+
+The objective of this project is to understand how employee data can be cleaned, manipulated, analyzed, and used to extract meaningful information using Python data-analysis libraries.
+
+## Skills Demonstrated
+
+* Data Manipulation
+* Data Analysis
+* Pandas
+* NumPy
+* Data Filtering
+* Data Transformation
+* Basic Data Visualization
 
 ## Author
 
 **Avdhesh Kumar Maurya**
 
 B.Tech CSE (Data Science & AI)
+
